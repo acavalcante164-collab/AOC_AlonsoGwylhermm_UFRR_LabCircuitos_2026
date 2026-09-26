@@ -33,7 +33,7 @@
 ### 2. Esquema do Circuito
 
 - **Captura de Tela do Circuito em Logisim:**  
-  ![Esquema do Circuito](Imagens/multiplexador_circuito_completo.png)  
+  ![Esquema do Circuito](IMAGENS/multiplexador_circuito_completo.png)  
   *Legenda:* Este esquema mostra o multiplexador configurado no Logisim com quatro entradas, seletor e uma saída.
 
 - **Descrição do Esquema:**  
@@ -81,22 +81,22 @@
 
   - Teste 1:
     
-  ![Resultados do Teste](Imagens/multiplexador_teste1.png)  
+  ![Resultados do Teste](IMAGENS/multiplexador_teste1.png)  
   *Legenda:* Seletor S0 = 0 / S1 = 0, entrada E0 = 1, saída Y = 1.
 
   - Teste 2:
     
-  ![Resultados do Teste](Imagens/multiplexador_teste2.png)  
+  ![Resultados do Teste](IMAGENS/multiplexador_teste2.png)  
   *Legenda:*  Seletor S0 = 1 / S1 = 0, entrada E1 = 1, saída Y = 1.
 
   - Teste 3:
     
-  ![Resultados do Teste](Imagens/multiplexador_teste3.png)  
+  ![Resultados do Teste](IMAGENS/multiplexador_teste3.png)  
   *Legenda:*  Seletor S0 = 0 / S1 = 1, entrada E2 = 1, saída Y = 1.
 
   - Teste 4:
     
-  ![Resultados do Teste](Imagens/multiplexador_teste4.png)  
+  ![Resultados do Teste](IMAGENS/multiplexador_teste4.png)  
   *Legenda:*  Seletor S0 = 1 / S1 = 1, entrada I3 = 1, saída Y = 1.
 
 - **Análise dos Resultados:**  
